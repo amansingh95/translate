@@ -1,3 +1,15 @@
 files:
   - source: /de.json
     translation: /translations/%two_letters_code%.%file_extension%
+  - source: /zh.json
+    translation: /translations/%file_extension%.%two_letters_code%
+  - source: /en_US
+    translation: /translations/%two_letters_code%.%file_extension%
+  - source: /es
+    translation: /translations/%two_letters_code%.%file_extension%
+  - source: /fr
+    translation: /translations/%two_letters_code%.%file_extension%
+  - source: /jap
+    translation: /translations/%two_letters_code%.%file_extension%
+  - source: /ru
+    translation: /translations/%two_letters_code%.%file_extension%
