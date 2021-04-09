@@ -1,8 +1,8 @@
 {
-  "ACCOUNTCREATED": "Your account is created successfully",
-  "ACCOUNTCREATIONFAILED": "Account creation failed. Contact support team.",
-  "ACCOUNTVALIDATEDSUCCESSFULLY": "Account validated successfully - Thank You",
-  "ACCOUNTVALIDATION": "Please wait while we validate your account...",
+  "ACCOUNTCREATED": "您的帐户已成功创建",
+  "ACCOUNTCREATIONFAILED": "帐户创建失败。联系支持团队。",
+  "ACCOUNTVALIDATEDSUCCESSFULLY": "用户验证成功-谢谢",
+  "ACCOUNTVALIDATION": "请稍等，正在验证用户。。。",
   "ACTIONS": "Actions",
   "ACTIVEQUEUE": "Active Queue",
   "ADD": "Add",
